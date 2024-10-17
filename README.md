@@ -13,8 +13,9 @@
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![XML](https://img.shields.io/badge/xml-%230066B2.svg?style=for-the-badge&logo=xml&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%231Fafe0.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
