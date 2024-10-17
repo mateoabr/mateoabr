@@ -14,8 +14,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![XML](https://img.shields.io/badge/xml-%230066B2.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-0078D7?style=for-the-badge&logo=powershell&logoColor=white)
-
+![PowerShell](https://img.shields.io/badge/PowerShell-0078D7?style=for-the-badge&logo=powerShell&logoColor=white)
 
 
 
