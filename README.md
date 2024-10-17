@@ -16,10 +16,6 @@
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-0078D7?style=for-the-badge&logo=Microsoft&logoColor=white)
 
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mateoabr&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mateoabr&theme=default&hide_border=true)<br/>
